@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2dcc70</color>
+    <color name="colorPrimaryDark">#21A85A</color>
+    <color name="colorAccent">#2dcc70</color>
+    <color name="colorHitam">#4D000000</color>
+    <color name="colorPutih">#FFFFFF</color>
+    <color name="kuning">#673AB7</color>
+
+    <color name="itempesan">#952DCC70</color>
+    <color name="itempesan1">#DBFDB3</color>
+    <color name="itempesan2">#B8E7FB</color>
+    <color name="color1">#167C41</color>
+</resources>
